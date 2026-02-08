@@ -1,0 +1,8 @@
+.clangd
+.DS_Store
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+src/game.o.dSYM/Contents/Info.plist
+src/game.o.dSYM/Contents/Resources/DWARF/game.o
+src/game.o.dSYM/Contents/Resources/Relocations/x86_64/game.o.yml
