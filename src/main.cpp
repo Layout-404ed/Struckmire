@@ -7,7 +7,7 @@ int main(void)
 {
     // init app
     // initialize window
-    InitWindow(0, 0, "Template Project"); // create window (if 0 0, window is created of screen size)
+    InitWindow(0, 0, "Struckmire"); // create window (if 0 0, window is created of screen size)
     SetTargetFPS(60); // sets target fps
 
     // run app
